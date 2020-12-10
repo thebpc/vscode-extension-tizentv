@@ -148,7 +148,7 @@
     },
     "dependencies": {
         "@tizentv/webide-common-tizentv": "^1.0.10",
-        "@tizentv/wits": "^2.4.6",
+        "@tizentv/wits": "^2.4.7",
         "archiver": "3.1.1",
         "async": "^2.0.1",
         "decompress": "^4.2.1",
