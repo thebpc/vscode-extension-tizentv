@@ -147,7 +147,7 @@
         "vscode": "^1.0.0"
     },
     "dependencies": {
-        "@tizentv/webide-common-tizentv": "^1.0.10",
+        "@tizentv/webide-common-tizentv": "^1.0.11",
         "@tizentv/wits": "^2.4.6",
         "archiver": "3.1.1",
         "async": "^2.0.1",
